@@ -1,5 +1,7 @@
 <?php 
 
-echo 'Hi';
-
-
+	return json_encode([
+		'user' : 'Nicolas',
+		'pass' : 123456
+	]);
+ ?>
