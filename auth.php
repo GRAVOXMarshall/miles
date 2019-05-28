@@ -1,6 +1,6 @@
 <?php 
 
-	return json_encode([
+	echo json_encode([
 		'user' : 'Nicolas',
 		'pass' : 123456
 	]);
